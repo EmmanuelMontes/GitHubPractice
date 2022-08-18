@@ -1,2 +1,3 @@
 # Using a comodin to specify a file extension to ignore. 
 *.zip
+*.txt
